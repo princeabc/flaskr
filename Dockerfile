@@ -8,4 +8,4 @@ ADD . /flaskr
 
 EXPOSE 5000
 
-CMD ["python"]
+CMD ["python","flaskr.py"]
